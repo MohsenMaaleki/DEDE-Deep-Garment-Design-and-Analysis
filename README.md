@@ -37,16 +37,4 @@ Based on research work in 3D garment analysis and deep learning:
 
 MIT License
 
-## Citation
 
-If you use this code in your research, please cite:
-```bibtex
-@misc{DEDE2024,
-    title={DEDE: Deep Garment Design and Analysis},
-    author={Your Name},
-    year={2024},
-    publisher={GitHub},
-    journal={GitHub repository},
-    howpublished={\url{https://github.com/yourusername/DEDE}}
-}
-```
