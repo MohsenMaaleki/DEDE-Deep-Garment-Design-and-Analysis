@@ -19,28 +19,6 @@ Built using PyTorch, Kaolin, and Streamlit, this project provides both a trainin
 - 🎨 Interactive 3D visualization
 - 📊 Web-based interface for garment manipulation
 
-## Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/DEDE.git
-cd DEDE
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
-## Quick Start
-
-1. Train the model:
-```bash
-python src/train.py --data_path path/to/dataset
-```
-
-2. Run the web interface:
-```bash
-streamlit run app/streamlit_app.py
-```
 
 ## Dataset
 
