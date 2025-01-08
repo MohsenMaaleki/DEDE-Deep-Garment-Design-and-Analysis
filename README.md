@@ -11,14 +11,6 @@ DEDE (Deep Cloth Simulation for Garment Design) is a deep learning project that 
 
 Built using PyTorch, Kaolin, and Streamlit, this project provides both a training pipeline and an interactive web interface for garment manipulation.
 
-## Features
-
-- 🧠 Point Cloud VAE for garment encoding and generation
-- 🔄 Garment interpolation between different styles
-- 👕 Support for various garment types
-- 🎨 Interactive 3D visualization
-- 📊 Web-based interface for garment manipulation
-
 
 ## Dataset
 
